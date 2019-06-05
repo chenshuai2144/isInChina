@@ -1,0 +1,22 @@
+{
+  "name": "getnpmregistry",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenshuai2144/isInChina.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenshuai2144/isInChina/issues"
+  },
+  "homepage": "https://github.com/chenshuai2144/isInChina#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
