@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/chenshuai2144/isInChina#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "2.6.7"
   }
 }
