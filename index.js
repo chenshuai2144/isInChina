@@ -11,7 +11,7 @@ const isInChinaByIp = async url => {
 };
 
 const registryMap = {
-  taobao: "https://registry.npm.taobao.org",
+  taobao: "https://registry.npmmirror.com",
   npm: "https://registry.npmjs.org"
 };
 
